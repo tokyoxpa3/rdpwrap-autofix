@@ -1,0 +1,14 @@
+# 執行時產生的檔案
+RDPWrap-AutoFix.log
+backup/
+
+# 執行時才會下載的二進位檔
+RDPWInst.exe
+rdpwrap.dll
+rdpwrap.ini
+rdpwrap.txt
+
+# 其他
+*.zip
+Thumbs.db
+desktop.ini
