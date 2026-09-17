@@ -1,8 +1,0 @@
-=== refs ===
-ls: cannot access '.git/refs/heads/': No such file or directory
-=== HEAD ===
-cat: .git/HEAD: No such file or directory
-=== packed-refs ===
-cat: .git/packed-refs: No such file or directory
-=== logs/HEAD ===
-cat: .git/logs/HEAD: No such file or directory
